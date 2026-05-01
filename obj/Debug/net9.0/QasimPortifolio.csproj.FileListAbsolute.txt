@@ -235,3 +235,4 @@ Q:\QASIM\Portifolio\QasimPortifolio\QasimPortifolio\obj\Debug\net9.0\refint\Qasi
 Q:\QASIM\Portifolio\QasimPortifolio\QasimPortifolio\obj\Debug\net9.0\QasimPortifolio.pdb
 Q:\QASIM\Portifolio\QasimPortifolio\QasimPortifolio\obj\Debug\net9.0\QasimPortifolio.genruntimeconfig.cache
 Q:\QASIM\Portifolio\QasimPortifolio\QasimPortifolio\obj\Debug\net9.0\ref\QasimPortifolio.dll
+Q:\QASIM\Portifolio\QasimPortifolio\QasimPortifolio\obj\Debug\net9.0\QasimPortifolio.sourcelink.json
